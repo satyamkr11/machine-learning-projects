@@ -1,127 +1,39 @@
-# Machine Learning Projects
+# 🧠 Machine Learning Projects
 
-A collection of practical machine learning projects covering supervised learning, unsupervised learning, natural language processing, and neural networks.
+A compact collection of practical machine-learning projects covering supervised learning, unsupervised learning, NLP, and neural networks.
 
-These projects demonstrate complete machine learning workflows including data preprocessing, feature engineering, model training, evaluation, and visualization.
+Each project demonstrates a complete workflow from preprocessing to model evaluation and visualization.
 
-## Projects
+## 🚀 Projects
 
-### 01. Gender Classification
+| # | Project | Type | Core Technique |
+|---|---|---|---|
+| 01 | Gender Classification | Supervised | Logistic Regression |
+| 02 | Wine Clustering | Unsupervised | K-Means + Hierarchical Clustering |
+| 03 | Fake News Classification | NLP | TF-IDF + Logistic Regression |
+| 04 | Breast Cancer Classification | Deep Learning | Neural Network |
 
-**Machine Learning Type:** Supervised Learning  
-**Algorithm:** Logistic Regression
+## 🔍 Concepts Covered
 
-A classification model that predicts gender from preference-based features.
+**Data:** preprocessing · feature engineering · encoding · scaling  
+**ML:** classification · clustering · model evaluation  
+**NLP:** text preprocessing · TF-IDF · text classification  
+**DL:** neural networks · binary classification  
+**Visualization:** distributions · clusters · confusion matrices · evaluation plots
 
-**Key Concepts:**
-- Data preprocessing
-- Categorical encoding
-- Train-test splitting
-- Feature scaling
-- Logistic Regression
-- Confusion matrix
-- Classification report
+## 🛠️ Stack
 
----
+Python · NumPy · Pandas · Scikit-learn · Matplotlib · SciPy · TensorFlow · Keras · Google Colab · Jupyter
 
-### 02. Wine Clustering
+## 📁 Structure
 
-**Machine Learning Type:** Unsupervised Learning  
-**Algorithms:** K-Means & Hierarchical Clustering
+    machine-learning-projects/
+    ├── 01-gender-classification/
+    ├── 02-wine-clustering/
+    ├── 03-fake-news-classification/
+    ├── 04-breast-cancer-classification/
+    ├── .gitignore
+    ├── LICENSE
+    └── README.md
 
-An unsupervised learning project that groups wine samples based on their chemical characteristics.
-
-**Key Concepts:**
-- Exploratory data analysis
-- K-Means clustering
-- Elbow method
-- Hierarchical clustering
-- Dendrogram
-- Cluster visualization
-
----
-
-### 03. Fake News Classification
-
-**Machine Learning Type:** Supervised Learning / NLP  
-**Algorithm:** Logistic Regression with TF-IDF
-
-A natural language processing project for classifying news articles as real or fake.
-
-**Key Concepts:**
-- Text preprocessing
-- TF-IDF feature extraction
-- Train-test splitting
-- Logistic Regression
-- Text classification
-- Model evaluation
-
----
-
-### 04. Breast Cancer Classification
-
-**Machine Learning Type:** Supervised Learning / Deep Learning  
-**Algorithm:** Neural Network
-
-A binary classification model that uses a neural network to classify breast cancer samples.
-
-**Key Concepts:**
-- Data preprocessing
-- Feature scaling
-- Neural networks
-- Binary classification
-- Model training
-- Model evaluation
-
-## Technologies
-
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Matplotlib
-- SciPy
-- TensorFlow
-- Keras
-- Google Colab
-- Jupyter Notebook
-
-## Machine Learning Concepts Covered
-
-- Data preprocessing
-- Feature engineering
-- Categorical encoding
-- Feature scaling
-- Supervised learning
-- Unsupervised learning
-- Classification
-- Clustering
-- Natural Language Processing
-- TF-IDF
-- Logistic Regression
-- K-Means
-- Hierarchical Clustering
-- Neural Networks
-- Model evaluation
-- Data visualization
-
-## Repository Structure
-
-```text
-machine-learning-projects/
-│
-├── 01-gender-classification/
-│   └── gender_classification.ipynb
-│
-├── 02-wine-clustering/
-│   └── wine_clustering.ipynb
-│
-├── 03-fake-news-classification/
-│   └── fake_news_classification.ipynb
-│
-├── 04-breast-cancer-classification/
-│   └── breast_cancer_classification.ipynb
-│
-├── .gitignore
-├── LICENSE
-└── README.md
+> A growing portfolio of hands-on AI/ML experiments and projects.
