@@ -1,27 +1,27 @@
 # 🧠 Machine Learning Projects
 
-A compact collection of practical machine-learning projects covering supervised learning, unsupervised learning, NLP, and neural networks.
+A curated collection of hands-on machine-learning projects covering **supervised learning, unsupervised learning, NLP, and neural networks**.
 
-Each project demonstrates a complete workflow from preprocessing to model evaluation and visualization.
+Each project focuses on a practical workflow from data preprocessing through model evaluation and visualization.
 
 ## 🚀 Projects
 
-| # | Project | Type | Core Technique |
+| # | Project | Learning Type | Core Technique |
 |---|---|---|---|
-| 01 | Gender Classification | Supervised | Logistic Regression |
-| 02 | Wine Clustering | Unsupervised | K-Means + Hierarchical Clustering |
+| 01 | Gender Classification | Supervised Learning | Logistic Regression |
+| 02 | Wine Clustering | Unsupervised Learning | K-Means + Hierarchical Clustering |
 | 03 | Fake News Classification | NLP | TF-IDF + Logistic Regression |
 | 04 | Breast Cancer Classification | Deep Learning | Neural Network |
 
 ## 🔍 Concepts Covered
 
 **Data:** preprocessing · feature engineering · encoding · scaling  
-**ML:** classification · clustering · model evaluation  
+**Machine Learning:** classification · clustering · model evaluation  
 **NLP:** text preprocessing · TF-IDF · text classification  
-**DL:** neural networks · binary classification  
+**Deep Learning:** neural networks · binary classification  
 **Visualization:** distributions · clusters · confusion matrices · evaluation plots
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 Python · NumPy · Pandas · Scikit-learn · Matplotlib · SciPy · TensorFlow · Keras · Google Colab · Jupyter
 
@@ -36,4 +36,17 @@ Python · NumPy · Pandas · Scikit-learn · Matplotlib · SciPy · TensorFlow �
     ├── LICENSE
     └── README.md
 
-> A growing portfolio of hands-on AI/ML experiments and projects.
+## 🎯 Purpose
+
+This repository is used as a practical learning portfolio while developing stronger foundations in machine learning and AI engineering.
+
+## 👨‍💻 Author
+
+**Satyam Kumar Singh**  
+B.Tech — Artificial Intelligence & Machine Learning
+
+[GitHub](https://github.com/satyamkr11)
+
+---
+
+**Hands-on AI/ML learning · Practical projects · Continuous improvement**
